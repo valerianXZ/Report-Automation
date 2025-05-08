@@ -17,7 +17,7 @@ This system aims to streamline the process of analyzing stock data by automatica
 ## Sample output 
 ### AAPL Stocks :
 
-![First Page](sample_output1.png)
+![First Page](sample_output.png)
 ![Second Page](sample_output2.png)
 
 ## Prerequisites
